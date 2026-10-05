@@ -6,7 +6,7 @@
 /*   By: jbustos- <jbustos-@student.42madrid.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/10/04 12:49:40 by jbustos-          #+#    #+#             */
-/*   Updated: 2026/10/05 16:41:26 by jbustos-         ###   ########.fr       */
+/*   Updated: 2026/10/05 16:50:42 by jbustos-         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -25,6 +25,6 @@ char	*ft_itoa(int n);
 int		putstrcount(char *str);
 int		print_unsigned(unsigned int value);
 int		print_hex(char format, unsigned long value);
-int		ft_putcharReturn(char numero);
+int		ft_putchar_return(char numero);
 
 #endif
